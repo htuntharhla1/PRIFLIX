@@ -13,7 +13,7 @@ const CONFIG = {
     
     // Google Drive API Configuration
     // Google Drive API Key (replace with your own from Google Cloud Console)
-    DRIVE_API_KEY: 'AIzaSyC_vjcACAZfiM-UbXeHuSuvetOHsKJPPJk',
+    DRIVE_API_KEY: 'AIzaSyCleNj_EKKhcLUrVaiaQ-fEiC9YRpE2nsA',
     
     // Google Drive URL Templates
     DRIVE_PREVIEW_URL: 'https://drive.google.com/file/d/',
